@@ -1,0 +1,35 @@
+[
+  {
+    "_Vacancies": [
+      {
+        "_Category": 1,
+        "Vacview": 0,
+        "Contact": "anaralizade2023@gmail.com",
+        "Id": "1dd04ce5-d9f1-49da-b567-23a4ca2ae98e",
+        "Job": "It",
+        "Age": "33",
+        "Company": "Step",
+        "City": "Baku",
+        "Payment": 200000,
+        "Experience": "2 years",
+        "AnnounceDate": "2023-12-12T00:00:00",
+        "ExpireAnnounceDate": "2024-12-12T00:00:00"
+      }
+    ],
+    "Notify": [
+      {
+        "content": "Id:1dd04ce5-d9f1-49da-b567-23a4ca2ae98e job vacancy has been applied by Resul Aslanov at 2023/30/28/2/28",
+        "time": "2023/09/30 02:28:39"
+      }
+    ],
+    "Id": "f29b424e-2041-425c-8968-7247b1f3883f",
+    "Name": "Step",
+    "SurName": "Step",
+    "Phone": "0555555555",
+    "City": "Baku",
+    "UserName": "step",
+    "Password": "Step123!",
+    "Email": "anaralizade2023@gmail.com",
+    "Age": 33
+  }
+]

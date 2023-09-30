@@ -1,0 +1,63 @@
+[
+  {
+    "_Cvs": [
+      {
+        "Contact": "elesgerli.kamran@gmail.com",
+        "Id": "7c8c1610-64d9-4765-8593-3151d938a9c1",
+        "Job": "IT",
+        "School": "IT",
+        "Skills": "IT",
+        "Companies": "IT",
+        "ForeignLanguages": "IT",
+        "Linkedin": "IT",
+        "GitUrl": "IT",
+        "HaveDifCert": "YES",
+        "GraduateScore": 12.0,
+        "Payment": 12
+      }
+    ],
+    "Notify": [],
+    "Id": "ca8b6921-6eb9-40da-a2ae-1aa3f0330fb8",
+    "Name": "Resul",
+    "SurName": "Aslanov",
+    "Phone": "0556136155",
+    "City": "Baku",
+    "UserName": "resul",
+    "Password": "Resul6155!",
+    "Email": "elesgerli.kamran@gmail.com",
+    "Age": 23
+  },
+  {
+    "_Cvs": [
+      {
+        "Contact": "pentest6155@gmail.com",
+        "Id": "879e90c8-26aa-4d27-b45d-11e3d6411030",
+        "Job": "HEalth",
+        "School": "Tibb",
+        "Skills": "tibb",
+        "Companies": "tibb",
+        "ForeignLanguages": "tibb",
+        "Linkedin": "tibb",
+        "GitUrl": "tibb",
+        "HaveDifCert": "yes",
+        "GraduateScore": 12.0,
+        "Payment": 122
+      }
+    ],
+    "Notify": [
+      {
+        "content": "Size Step StepTerefinden is deveti   gonderildi ",
+        "time": "2023/09/30 04:11:59"
+      }
+    ],
+    "Id": "987717d1-f53f-478a-b6cb-3a8d0a5908e2",
+    "Name": "Test",
+    "SurName": "Test",
+    "Phone": "0556136155",
+    "City": "Baku",
+    "UserName": "test",
+    "Password": "Test123!",
+    "Email": "pentest6155@gmail.com",
+    "Age": 25
+  }
+]
